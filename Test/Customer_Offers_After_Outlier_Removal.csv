@@ -1,0 +1,91 @@
+CustomerID,Age,Gender,City,AnnualIncome,TotalSpent,MonthlyPurchases,AvgOrderValue,AppTimeMinutes,DiscountUsage,PreferredShoppingTime,Cluster,CustomerSegment,Offer
+C001,28,0,0,450000.0,120000,6,2000,45.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C002,35,1,5,1200000.0,850000,18,12000,120.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C003,42,0,2,300000.0,75000,3,1800,30.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C004,26,1,6,600000.0,40000,2,1500,20.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C005,39,0,0,950000.0,600000,15,9000,95.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C006,31,1,1,520000.0,210000,8,2600,60.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C007,47,0,4,280000.0,50000,2,1400,15.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C008,29,0,3,480000.0,190000,7,2700,70.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C010,33,1,0,600000.0,250000,9,3000,70.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C011,41,0,2,350000.0,90000,4,2100,35.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C012,24,1,6,220000.0,30000,1,1200,10.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C013,38,0,5,800000.0,420000,12,6000,85.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C015,34,0,3,500000.0,200000,8,2500,65.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C016,27,1,0,420000.0,110000,5,2200,40.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C017,45,0,2,700000.0,350000,10,5000,80.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C018,36,1,5,1100000.0,780000,17,11500,110.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C019,52,0,4,260000.0,60000,2,1600,18.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C020,30,0,6,480000.0,180000,7,2600,55.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C021,41,1,1,650000.0,300000,9,4200,72.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C022,23,0,0,200000.0,25000,1,1100,8.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C023,48,1,3,1300000.0,900000,19,13000,140.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C024,34,1,2,540000.0,220000,8,2800,68.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C025,29,0,5,460000.0,170000,6,2400,50.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C027,44,0,1,720000.0,380000,11,5200,88.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C028,32,1,3,510000.0,210000,8,2600,62.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C029,39,1,6,610000.0,260000,9,3000,70.0,1,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C030,26,0,2,240000.0,45000,2,1400,15.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C031,37,0,0,820000.0,410000,12,5800,90.0,2,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C032,28,1,6,390000.0,95000,4,2100,38.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C034,35,0,3,560000.0,230000,9,2900,67.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C035,22,1,2,180000.0,20000,1,1000,6.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C036,54,0,1,900000.0,500000,14,7200,100.0,2,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C037,41,1,4,480000.0,160000,6,2600,52.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C038,33,0,0,610000.0,270000,10,3200,75.0,1,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C039,46,1,6,1000000.0,650000,16,9800,115.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C040,27,0,3,430000.0,130000,5,2300,42.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C042,31,0,2,520000.0,210000,8,2800,63.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C043,38,1,1,670000.0,330000,11,4500,78.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C044,44,0,0,760000.0,390000,12,5400,88.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C045,25,1,4,210000.0,35000,2,1300,12.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C046,36,1,0,680000.0,320000,10,4500,78.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C047,29,0,6,410000.0,140000,5,2300,48.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C049,43,0,2,590000.0,260000,9,3100,70.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C050,24,1,3,260000.0,40000,2,1500,14.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C051,34,0,1,720000.0,350000,11,4800,82.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C052,46,1,4,310000.0,85000,3,1900,28.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C053,38,0,0,850000.0,460000,13,6200,95.0,2,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C055,27,0,6,440000.0,155000,6,2500,52.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C056,41,1,2,640000.0,290000,10,3600,74.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C057,32,0,3,520000.0,210000,8,2700,65.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C058,48,1,1,980000.0,610000,16,9200,120.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C059,22,0,0,190000.0,30000,1,1200,9.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C060,37,1,5,780000.0,400000,12,5600,90.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C061,44,0,4,360000.0,100000,4,2200,35.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C062,31,1,6,560000.0,240000,9,2900,68.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C063,53,0,2,880000.0,520000,14,7400,105.0,2,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C064,28,1,3,450000.0,160000,6,2600,54.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C065,39,0,0,930000.0,580000,15,8200,110.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C066,47,1,1,1200000.0,780000,18,11500,135.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C067,26,0,5,420000.0,130000,5,2400,46.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C068,35,1,4,510000.0,200000,7,2800,60.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C069,58,0,2,760000.0,420000,12,6000,88.0,2,0,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C070,33,1,6,600000.0,270000,9,3200,72.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C071,45,0,3,680000.0,340000,11,4600,80.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C072,29,1,0,470000.0,180000,7,2600,58.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C074,41,0,1,690000.0,360000,12,5000,85.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C075,23,1,2,210000.0,35000,2,1400,12.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C076,36,0,6,620000.0,280000,9,3100,70.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C077,49,1,0,1050000.0,700000,17,10200,130.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C078,34,0,3,540000.0,230000,8,2900,66.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C079,57,1,4,330000.0,90000,3,1800,25.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C080,27,0,5,480000.0,170000,6,2600,50.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C081,42,1,2,720000.0,390000,13,5300,92.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C082,31,0,1,560000.0,250000,9,3000,69.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C083,54,0,0,870000.0,540000,14,7600,108.0,2,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C084,38,1,6,650000.0,310000,10,4200,76.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C085,25,0,3,230000.0,45000,2,1500,16.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C086,47,1,5,1250000.0,850000,19,12500,145.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C087,33,0,2,580000.0,260000,9,3200,71.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C089,40,0,4,460000.0,190000,7,2700,55.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C090,28,1,0,490000.0,185000,7,2650,57.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C091,52,0,6,710000.0,400000,12,5600,86.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C092,35,1,3,610000.0,280000,9,3300,73.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C093,44,1,2,820000.0,470000,14,6700,98.0,2,0,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C094,26,0,5,450000.0,150000,5,2500,48.0,2,1,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C095,48,0,1,950000.0,620000,16,9000,118.0,1,1,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
+C096,32,1,4,520000.0,210000,8,2800,64.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C098,37,0,6,590000.0,260000,9,3100,69.0,2,0,1,Value-Seeking Regular,Festival discounts (10–15%) + Loyalty reward points
+C099,24,1,2,200000.0,30000,1,1200,10.0,0,0,2,Price-Sensitive Occasional,Flash sales + Coupon discounts + Free shipping on minimum order value
+C100,46,0,3,880000.0,520000,14,7400,70.0,2,0,0,High-Value Loyal,Exclusive early access + Premium membership with free express delivery
